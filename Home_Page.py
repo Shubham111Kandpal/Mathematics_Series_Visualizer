@@ -127,4 +127,4 @@ series_block(
 
 # Footer
 st.markdown("---")
-st.markdown("🚀 Built by **Shubham Kandpal** — [LinkedIn](https://linkedin.com/in/shubham-kandpal) | [GitHub](https://github.com/Shubham111Kandpal)")
+st.markdown("🚀 Built by **Shubham Kandpal** — [LinkedIn](https://www.linkedin.com/in/shubham-kandpal-035711165/) | [GitHub](https://github.com/Shubham111Kandpal)")
