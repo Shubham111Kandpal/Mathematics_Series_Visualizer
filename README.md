@@ -1,6 +1,7 @@
 # 📚 Mathematical Series Visualizer
 
 Welcome to the **Mathematical Series Hub**, an interactive educational tool that brings mathematical series to life! This Streamlit-based web application lets you explore, visualize, and understand a variety of series through intuitive explanations, 2D and 3D visualizations, and animated illustrations.
+https://skmathviz.streamlit.app/
 
 ---
 
